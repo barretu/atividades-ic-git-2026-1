@@ -1,0 +1,4 @@
+Olá! Meu nome é Thony Barreto, tenho 21 anos e sou natural de Recife–PE. 
+Sou um desenvolvedor fullstack e formado em Jogos Digitais pela Universidade Católica de Pernambuco (UNICAP). 
+Minha trajetória profissional começou na área de modelagem 3D, experiência que contribuiu muito para o meu senso estético e para a atenção aos detalhes. 
+Com o tempo, migrei para a programação, onde descobri minha verdadeira afinidade: a lógica, a criação de interfaces e o desenvolvimento de soluções digitais eficientes, intuitivas e bem estruturadas.
